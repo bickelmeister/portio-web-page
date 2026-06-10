@@ -1,0 +1,10 @@
+title: Portio
+description: Kohlenhydrate berechnen – einfach, schnell, für Diabetiker.
+baseurl: /portio-web-page
+url: https://bickelmeister.github.io
+theme: minima
+
+header_pages:
+  - index.md
+  - datenschutz.md
+  - support.md
