@@ -10,7 +10,7 @@ permalink: /
 </div>
 
 <div class="store-badges" markdown="0">
-  <a href="https://apps.apple.com/app/portio">
+  <a href="https://apps.apple.com/de/app/portio/id6778934549">
     <img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/de-de?size=250x83" alt="Laden im App Store">
   </a>
 </div>
@@ -58,5 +58,5 @@ permalink: /
 <div class="cta" markdown="0">
   <h3>Jetzt im App Store</h3>
   <p>Kostenlos laden – Premium-Features optional freischaltbar.</p>
-  <a class="cta-button" href="https://apps.apple.com/app/portio">Im App Store laden</a>
+  <a class="cta-button" href="https://apps.apple.com/de/app/portio/id6778934549">Im App Store laden</a>
 </div>
