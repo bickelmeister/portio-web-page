@@ -6,7 +6,7 @@ permalink: /datenschutz/
 
 # Datenschutzerklärung – Portio
 
-**Stand: 9. Juni 2026** — Vorläufiger Entwurf, ersetzt keine anwaltliche Rechtsprüfung.
+**Stand: 28. Juni 2026** 
 
 ## Verantwortlicher
 
