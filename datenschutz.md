@@ -36,11 +36,10 @@ Gespeicherte Schlüssel: `po_unit`, `po_showFEE`, `po_dark`, `po_accent`
 
 ## Auftragsverarbeiter & Drittlandübermittlung
 
-Portio nutzt folgende US-amerikanische Dienstleister mit Serverstandorten in der EU. Da die Mutterunternehmen dem US-Recht unterliegen, erfolgt die Verarbeitung auf Basis von EU-Standarddatenschutzklauseln (Art. 46 Abs. 2 c DSGVO):
+Portio nutzt folgende Dienstleister mit Serverstandort in der EU. Die Verarbeitung erfolgt ausschließlich innerhalb der EU bzw. des EWR; eine Übermittlung in Drittländer findet nicht statt.
 
-- **Render Services, Inc.** — Backend-Hosting (EU-Region Frankfurt)
-- **Vercel Inc.** — Frontend-Hosting
-- **Resend Inc.** — E-Mail-Versand
+- HostStack (MICCI, CVR 45587452, Fyrretoften 31, 7100 Vejle, Dänemark) — Datenbank- und Backend-Hosting
+- Hetzner Online GmbH, Gunzenhausen (Deutschland) — Rechenzentrum (Unterauftragsverarbeiter)
 
 ## Speicherdauer
 
